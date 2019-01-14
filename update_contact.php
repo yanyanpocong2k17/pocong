@@ -169,7 +169,7 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" id=close" onclick="$('#update_success').fadeOut();$('#firstname').focus()">&times;</button>
-					<h4 class="modal-title"><center>Congrats</center></h4>
+					<center><h4 class="modal-title">Congrats</h4></center>
 				</div>
 				<div class="modal-body">
 					<center><p>New Contact Successfully Updated</p><center>
